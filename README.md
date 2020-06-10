@@ -20,5 +20,6 @@ The obtained output is then analysed using confusion matrix and the following ar
 5. Precision
 6. Recall 
 7. F1 score
+Since the data is unbalanced AUPRC curves are also used to detect the accuracy.
 # Random forest tree visualisation
 Finally a Randomforesttree with the data has been displayed for the understanding purpose.
